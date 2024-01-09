@@ -1,0 +1,63 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+#Tv
+{
+    width: 100;
+    height: 50;
+    font-size: 25px;
+    background-color: aqua;
+     color: black;
+}
+
+#fruits
+{
+    width: 100;
+    height: 50;
+    font-size: 25px;
+    background-color: aqua;
+     color: black;
+}
+
+#bed
+{
+    width: 100;
+    height: 50;
+    font-size: 25px;
+    background-color: aqua;
+     color: black;
+}
+
+#sink
+{
+    width: 100;
+    height: 50;
+    font-size: 25px;
+    background-color: aqua;
+     color: black;
+}
+
+#bathroom
+{
+    width: 125;
+    height: 50;
+    font-size: 25px;
+    background-color: aqua;
+     color: black;
+}
